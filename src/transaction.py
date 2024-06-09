@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from funcs import get_masking_card
+from src.funcs import get_masking_card
 
 
 class Transactions:

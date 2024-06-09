@@ -1,4 +1,4 @@
-from funcs import get_transaction, load_data
+from src.funcs import get_transaction, load_data
 import transaction as t
 
 
