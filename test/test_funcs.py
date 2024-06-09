@@ -1,8 +1,6 @@
-import pytest
-
-from funcs import get_transaction
-from funcs import get_masking_card
-from funcs import load_data
+from src.funcs import get_transaction
+from src.funcs import get_masking_card
+from src.funcs import load_data
 
 
 test_data = [
